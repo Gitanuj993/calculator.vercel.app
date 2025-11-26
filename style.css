@@ -28,9 +28,9 @@ input{
     padding-left: 10px;
     margin-left: 10px;
     border-radius :6px;
-    align-items:right;
-    
     justify-content:center;
+    text-decoration:strike;
+
 }
 button{
     background-color: lightgray;
